@@ -1,4 +1,4 @@
-<style>
+
 .grid-container{
   padding-bottom: 4%;
    height: auto;
@@ -69,8 +69,19 @@
          
          
       }
+      nav{
+        box-sizing: border-box;
+
+      }
+button{color: blue;
+    padding: 2%;
+    margin-inline-end: auto;
+    size-adjust: 7px;
+     border: width 15px;
+    
+    
+
+}
+
       
          
-      
-
-</style>
